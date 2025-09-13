@@ -1,3 +1,4 @@
+<img width="1369" height="736" alt="Screenshot 2025-09-14 021647" src="https://github.com/user-attachments/assets/3c03be55-3226-43a8-850d-4dfe856e299a" />
 # Strategic Sales Performance Dashboard
 
 ### [View Interactive Dashboard Live]([Insert Link to Your Published Power BI Report Here])
